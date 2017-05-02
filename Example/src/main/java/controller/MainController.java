@@ -32,7 +32,7 @@ public class MainController {
         System.out.println(diff.entriesOnlyOnLeft());
 
         System.out.println( diff.entriesOnlyOnRight());
-
+        System.out.println( diff.entriesOnlyOnRight());
     }
 }
 
